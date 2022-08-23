@@ -10,7 +10,7 @@ Ada beberapa general command dari git, yaitu :
 |:------------- | :----------|
 |`git init <options>`| membuat git repository baru|
 | `git add <file>` atau `git add <directory>` | menambahkan file atau direktori pada repositori |
-| `git remote <options>` | |
+| `git remote <options>` | menghubungkan repository secara remote |
 | `git status` | menampilkan keadaan working directory dan staging area |
 | `git commit <options>` | menangkap perubahan proyek yang saat ini |
 | `git push <options>` | mengunggah commit ke remote repository |
