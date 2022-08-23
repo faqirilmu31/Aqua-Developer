@@ -1,22 +1,28 @@
 ## Praktikum Hari ke-2 - Fundamental Git
 Nama : Reni Setyaningsih
 
-**1. git init**
+**1. `git init`**
+
 ![](../screenshot/git-init.png)
 
-**2. Add**
+
+**2. `git add`**
+
 ![](../screenshot/git-add.png)
 
-**3. Commit**
+
+**3. `git commit`**
+
 ![](../screenshot/git-commit.png)
 
-**4. Remote**
+**4. `git remote`**
+
 ![](../screenshot/git-remote.png)
 
 Bukti hasil remote
 ![](../screenshot/git-remote-github.png)
 
-**5. Pull**
+**5. `git pull`**
 
 file yang diupload 
 ![](../screenshot/upload-file-git-pull.png)
@@ -28,14 +34,32 @@ sesudah `git pull`
 
 ![](../screenshot/git-pull-sesudah.png)
 
-**6. Branch**
+**6. `git branch`**
 
-**7. Merge**
+sebelum `git branch`
 
-**8. Status**
+![](../screenshot/git-branch-sebelum.png)
 
-**9. Fetch**
+![](../screenshot/git-branch.png)
 
-**10. Push**
+sesudah `git branch`
 
-**11. Stash**
+![](../screenshot/git-branch-sesudah.png)
+
+**7. `git merge`**
+
+![](../screenshot/git-merge.png)
+
+**8. `git status`**
+
+![](../screenshot/git-status.png)
+
+**9. `git fetch`**
+
+![](../screenshot/git-fetch.png)
+
+file yang ditambahkan : README.md
+![](../screenshot/menambah-readme-git-fetch.png)
+
+**10. `git push`**
+
