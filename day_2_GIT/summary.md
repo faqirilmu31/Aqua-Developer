@@ -23,9 +23,12 @@ Ada beberapa general command dari git, yaitu :
 
 
 ## Commit Convention
-Commit convention merupakan salah satu cara untuk membawakan productive testing environment kepada developer karena akan memudahkan dalam development ke depannya. Selain itu, juga berfungsi untuk :
+Commit convention merupakan salah satu cara untuk membawakan productive testing environment kepada developer karena akan memudahkan dalam development ke depannya. 
+Selain itu, juga berfungsi untuk :
 - automatic generating pada changelog
 - navigasi sederhana melalui git history
+
+[Git Karma convention](http://karma-runner.github.io/6.3/dev/git-commit-msg.html) merupakan contoh dari commit convention.
 
 format :
 
@@ -66,7 +69,7 @@ Example: v2.0.0
 
 
 ## Git Management
-Di eFishery git management yang digunakan adalah Trunk Based Developement.
+Di eFishery git management yang digunakan adalah [Trunk Based Developement](https://trunkbaseddevelopment.com/).
 
 Trunk Based Development menerapkan : 
 - berkolaborasi pada kode dalam satu cabang yang disebut 'trunk' (utama atau master)
