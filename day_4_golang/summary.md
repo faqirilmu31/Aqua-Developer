@@ -278,12 +278,14 @@ Pada Go terdapate beberapa cara untuk mendeklarasikan variabel. Berikut adalah c
 
 ## **Struct**
 
-  ```
-  type student struct {
-    name string
-    grade int
-  }
-  ```
+Struct dalah kumpulan definisi variabel (atau property) dan atau fungsi (atau method), yang dibungkus sebagai tipe data baru dengan nama tertentu.
+
+```
+type student struct {
+  name string
+  grade int
+}
+```
 
 ## **Data Structure**
 
@@ -302,6 +304,8 @@ Pada Go terdapate beberapa cara untuk mendeklarasikan variabel. Berikut adalah c
 
 - **array**
 
+  Array adalah kumpulan data bertipe sama, yang disimpan dalam sebuah variabel.
+
   ```
   var names [4]string
   names[0] = "trafalgar"
@@ -314,6 +318,8 @@ Pada Go terdapate beberapa cara untuk mendeklarasikan variabel. Berikut adalah c
 
 - **Slice**
 
+  Slice adalah reference elemen array bedanya tidak perlu mendefinisikan jumlah elemen ketika awal deklarasi. 
+
   ```
   var fruits = []string{"apple", "grape", "banana", "melon"}
   fmt.Println(fruits[0])
@@ -321,7 +327,9 @@ Pada Go terdapate beberapa cara untuk mendeklarasikan variabel. Berikut adalah c
 
 ## **Standard Library (stdllib)**
 
+Golang memiliki banyak standard library, namun `fmt`, `string`, dan `time` adalah library yang sering digunakan.
 
+Untuk penjelasan lebih lengkapnya dapat dilihat di [sini](https://pkg.go.dev/std)
 
 ## **Defer**
 
@@ -337,6 +345,3 @@ func main() {
     fmt.Println("selamat datang")
 }
 ```
-
-MEMBUAT DEKLARASI VARIBALE MENGGUNAKAN MAP, STRUCT, SLICE, ARRAY
-ASSIGN TYPE DATA MENJADI DATA YANG BARU.
