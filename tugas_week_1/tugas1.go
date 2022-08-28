@@ -1,3 +1,5 @@
+// Nama : Reni Setyaningsih
+
 package main
 
 import (
