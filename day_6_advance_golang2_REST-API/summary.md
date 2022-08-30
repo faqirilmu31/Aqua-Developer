@@ -1,5 +1,6 @@
 # **Ringkasan Materi #06 - Advance Golang (REST API)**
 
+Pada hari ke-6 ini materi yang dibahas adalah tentang REST API dan echo framework.
 ## **API**
 
 Appication Programming Interface atau API adalah sebuah software yang memungkinkan para developer untuk mengintegrasikan dan mengizinkan dua aplikasi yang berbeda secara bersamaan untuk saling terhubung satu sama lain.
@@ -82,7 +83,7 @@ REST API itu arsitekturnya sedangkan RESTFul API itu service yang menggunakan ar
     - **404 - not found** - server tidak dapat menemukan resource yang diminta
     - **405 - method not allowed** - request HTTP dikenali tetapi disable dan tidak dapat digunakan untuk resource tersebut. Misal client request method GET tapi dari server harus menerima POST
 
-3. **5xx : serer error** - 
+3. **5xx : server error** - 
 misal di end point masih ada bug di server dan terkadang menyebabkan down atau infinite loop. Error code 5xx bisa dikirim dari web server maupun gateway.
     - **500 - internal server error** - server mengalami kondisi tak terduga yang mencegahnya memenuhi request. 
     - **502 - bad gateway** - server mendapat respons yang tidak valid saat bekerja sebagai gateway untuk mendapatkan respons yang diperlukan untuk menangani request.
