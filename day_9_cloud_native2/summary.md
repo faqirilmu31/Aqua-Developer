@@ -96,26 +96,26 @@ Istilah CI/CD ini biasa dipakai untuk menjalankan tes.
 
 **Secara umum, CI/CD lifecycle adalah sebagai berikut :**
 
-![](https://www.flagship.io/wp-content/uploads/ci-cd-diagram.png)
+<img src="https://www.flagship.io/wp-content/uploads/ci-cd-diagram.png" width="300" height="100">
 
 **Tools untuk CI/CD**
 
 - Jenkins
 
-  ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="150" height="200">
 
 - Azure DevOps
 
-  ![](https://miro.medium.com/max/800/0*cl5McDYMbuXw-fdS.png)
+  <img src="https://miro.medium.com/max/800/0*cl5McDYMbuXw-fdS.png" width="200" height="150">
 
 
 - GitLab CI/CD
 
-  ![](https://camo.githubusercontent.com/07a52f72326754e7fe182adce6b572f1fc2bea794916e8c75e249d9b171fd4f6/68747470733a2f2f61626f75742e6769746c61622e636f6d2f696d616765732f63692f6769746c61622d63692d63642d6c6f676f5f32782e706e67)
+  <img src="https://camo.githubusercontent.com/07a52f72326754e7fe182adce6b572f1fc2bea794916e8c75e249d9b171fd4f6/68747470733a2f2f61626f75742e6769746c61622e636f6d2f696d616765732f63692f6769746c61622d63692d63642d6c6f676f5f32782e706e67" width="200" height="150">
 
 - Github Action
 
-  ![](https://avatars.githubusercontent.com/u/44036562?s=280&v=4)
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="150" height="150">
 
 
 
@@ -176,36 +176,37 @@ Observability adalah suatu kegiatan untuk mengukur metrics, log, dan traces.
 
 1. [Dynatrace](https://www.dynatrace.com/)
 
-    ![](https://www.centraldatatech.com/uploads/product/logo/Dynatrace_website.png)
+    <img src="https://financialit.net/sites/default/files/dynatrace.png" width="200" height="100">
 
 2. [Lightrun](https://lightrun.com/)
 
-    ![](https://www.stackvidhya.com/wp-content/uploads/2021/10/Lightrun-logo.svg)
+
+    <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c83b4db3f815e6c1acb3e36b753b8964/lightrun-lightrun.jpg" width="200" height="150">
 
 3. [Lumigo](https://lumigo.io/)
 
-    ![](https://lumigo.awsworkshop.io/images/lumigo.png)
+    <img src="https://media-exp1.licdn.com/dms/image/C560BAQEWKFup3mCYOQ/company-logo_200_200/0/1655303890895?e=2147483647&v=beta&t=4NW2v9aZsf-A90TOwhiMmm9kwCGd-6dE1weFG1QT0aI" width="200" height="150">
 
 4. [Lightstep](https://lightstep.com/)
 
-    ![](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_538963bea2f1be902f81195b0b990487/lightstep.png)
+    <img src="https://www.pagerduty.com/wp-content/uploads/2016/07/logo-medium-color-400x100-LightStep.jpg" width="300" height="100">
 
 5. [Anodot](https://www.anodot.com/)
 
-    ![](https://blog.anodot.com/hs-fs/hubfs/full_logo@2x-1.png?width=3780&name=full_logo@2x-1.png)
+    <img src="https://www.anodot.com/wp-content/uploads/linkedin_profile-img_no-tagline.png" width="200" height="150">
 
 6. [Datadog](https://www.datadoghq.com/)
 
-    ![](https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/1200px-Datadog_logo.svg.png)
+    <img src="https://fortifydata.com/wp-content/uploads/2022/05/DataDpg.png" width="200" height="150">
 
 7. [Grafana](https://grafana.com/)
 
-    ![](https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png)
+    <img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2022-04/grafana-6001.jpeg" width="250" height="100">
 
 8. [Honeycomb](https://www.honeycomb.io/)
 
-    ![](https://mma.prnewswire.com/media/634345/Honeycomb_Logo.jpg?p=facebook)
+    <img src="https://mma.prnewswire.com/media/634345/Honeycomb_Logo.jpg?p=facebook" width="200" height="100">
 
 9. [New Relic](https://newrelic.com/)
 
-    ![](https://play-lh.googleusercontent.com/yQj5aOQgDxKi1TuitOfVm4jyMDDbQdN6mLg_b2zZqscWBKxCvMk7atGiZBuQgKprZZY)
+    <img src="https://play-lh.googleusercontent.com/yQj5aOQgDxKi1TuitOfVm4jyMDDbQdN6mLg_b2zZqscWBKxCvMk7atGiZBuQgKprZZY" width="150" height="150">
