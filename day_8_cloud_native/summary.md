@@ -10,9 +10,9 @@ Cloud Native mempunyai 5 pilar yaitu micro service, modern design, containers, b
 
 ![](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/media/cloud-native-foundational-pillars.png)
 
-Cloud native juga adalaha sebuah aplikasi yang dibuat yang aware dengan *"The Twelve-Factor Application"*
+Cloud native juga adalah sebuah aplikasi yang dibuat yang aware dengan *"The Twelve-Factor Application"*
 
-The Twelve-Factor Application adalah 12 principle dan practice yang baiknya diikuti semua developer, tidak hanya cloud native engineer. Cloud native menggunakan **declarative format** untuk setup automation dan mempunyai clean contract dibawah layering OS sehinggan **portability** maximum.
+[The Twelve-Factor Application](https://12factor.net/) adalah 12 principle dan practice yang baiknya diikuti semua developer, tidak hanya cloud native engineer. Cloud native menggunakan **declarative format** untuk setup automation dan mempunyai clean contract dibawah layering OS sehinggan **portability** maximum.
 
 
 Berikut adalah prinsip-prinsip tersebut :
